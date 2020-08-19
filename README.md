@@ -15,6 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Junior Developer completely in love with JavaScript Stack. I value for the code organization and I speak Fluent English, Native Portuguese and a bit of Spanish 😃
+My name is Fernando Moreira and I'm a Junior Developer completely in love with JavaScript Stack. I value for the code organization and I speak Fluent English, Native Portuguese and a bit of Spanish 😃
 
-[![Linkedin Badge](https://img.shields.io/badge/-fernando-moreira-0307a7198-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-moreira-0307a7198/)
+<!-- Actual text -->
+
+You can find me on [![LinkedIn][2.2]][2], or on [![Twitter][1.2]][1].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/oprogrexpert
+[2]: https://www.linkedin.com/in/fernando-moreira-0307a7198/
+
+
+[![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=ofernandopro)](https://github.com/ofernandopro/github-readme-stats)
+
