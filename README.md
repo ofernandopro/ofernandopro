@@ -28,7 +28,7 @@ You can find me on [![LinkedIn][2.2]][2], or on [![Twitter][1.2]][1].
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/oprogrexpert
+[1]: https://twitter.com/oprogexpert
 [2]: https://www.linkedin.com/in/fernando-moreira-0307a7198/
 
 
