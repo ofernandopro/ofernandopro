@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **ofernandopro/ofernandopro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I'm a Junior Developer completely in love with JavaScript Stack. I value for the code organization and I speak Fluent English, Native Portuguese and a bit of Spanish 😃
+
+[![Linkedin Badge](https://img.shields.io/badge/-fernando-moreira-0307a7198-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-moreira-0307a7198/)
