@@ -32,5 +32,5 @@ You can find me on [![LinkedIn][2.2]][2], or on [![Twitter][1.2]][1].
 [2]: https://www.linkedin.com/in/fernando-moreira-0307a7198/
 
 
-[![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=ofernandopro)](https://github.com/ofernandopro/github-readme-stats)
+[![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=ofernandopro&theme=radical)](https://github.com/ofernandopro/github-readme-stats)
 
