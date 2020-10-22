@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## About me
+
 My name is Fernando Moreira and I'm a Junior Developer completely in love with JavaScript Stack. I value for the code organization and I speak Fluent English, Native Portuguese and a bit of Spanish 😃
 
 <!-- Actual text -->
