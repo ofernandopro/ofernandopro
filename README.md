@@ -17,12 +17,9 @@ Here are some ideas to get you started:
 
 ## About me
 
-<div>
-<div style:"float: left;width: 80%;">My name is Fernando Moreira and I'm a Junior Developer completely in love with JavaScript Stack. I value for the code organization and I speak Fluent English, Native Portuguese and a bit of Spanish 😃 </div>
+<img src="https://github.com/ofernandopro/ofernandopro/blob/master/codegif.gif" align="right" width="300">
 
-<div style:"float: right;width: 20%;">![](codegif.gif)</div>
-<div style:"clear: both;"></div>
-</div>
+My name is Fernando Moreira and I'm a Junior Developer completely in love with JavaScript Stack. I value for the code organization and I speak Fluent English, Native Portuguese and a bit of Spanish 😃 
 
 
 <!-- Actual text -->
