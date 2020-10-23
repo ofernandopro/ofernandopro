@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 My name is Fernando Moreira and I'm a Junior Developer completely in love with JavaScript Stack. I value for the code organization and I speak Fluent English, Native Portuguese and a bit of Spanish 😃
 
+![](codegif.gif)
+
 <!-- Actual text -->
 
 You can find me on [![LinkedIn][2.2]][2], or on [![Twitter][1.2]][1].
