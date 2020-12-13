@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 <!--<img src="https://github.com/ofernandopro/ofernandopro/blob/master/codegif.gif" align="right" width="300">-->
 
-I'm Fernando Moreira and I'm a brazilian Front-end Developer. I value for the code organization and I speak fluent English and native Portuguese. Currently, I am an Information Systems student in the best computer science university of Brazil (UFMG). Through self-study I am building a solid foundation in both Front-end with React and Back-end with NodeJS!
+I’m a junior Front-End Developer diving into ReactJS and NodeJS. I’m currently a Computer Information Systems student in the best computer science university of Brazil (UFMG).
+
+Always concerned with the User Experience, code organization and using data-metrics to reach high retention rates.
 
 
 <!-- Actual text -->
