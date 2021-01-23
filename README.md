@@ -26,7 +26,7 @@ Always concerned with the User Experience, code organization and using data-metr
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][2.2]][2].
+You can find me on [![LinkedIn][2.2]][2].<br />
 Email: fernandoepm.pro@gmail.com
 
 <!-- Icons -->
