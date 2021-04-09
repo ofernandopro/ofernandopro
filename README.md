@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ## About me
 
-<img src="https://github.com/ofernandopro/ofernandopro/blob/master/codegif.gif" align="right" width="300">
-
 I’m a junior Front-End Developer diving into ReactJS and NodeJS. I’m currently a Computer Information Systems student in the best computer science university of Brazil (UFMG). Always concerned with the User Experience and code organization.
 
 
