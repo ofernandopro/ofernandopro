@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About me
 
-I’m a junior Front-End Developer diving into ReactJS and NodeJS. I’m currently a Computer Information Systems student in the best computer science university of Brazil (UFMG). Always concerned with the User Experience and code organization.
+I am a junior Developer diving into iOS Mobile Development with Swift and I am currently a Computer Information Systems student in the best computer science university of Brazil (UFMG). Besides all this amazing foundation in algorithms and data structures that the university provides me, I am Always concerned with the User Experience and code organization.
 
 
 <!-- Actual text -->
