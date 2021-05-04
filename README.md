@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 <!--
 I am a junior Developer diving into iOS Mobile Development with Swift and I am currently a Computer Information Systems student in the best computer science university of Brazil (UFMG). Besides all this amazing foundation in algorithms and data structures that the university provides me, I am Always concerned with the User Experience and code organization.
 -->
- Junior Developer studying iOS Mobile Development with Swift.
-📚 Diving into algorithms and data structures.
-🎓 Computer Information Systems student in the best computer science university of Brazil (UFMG).
-😃 Always concerned with the User Experience and code organization.
+ Junior Developer studying iOS Mobile Development with Swift.<br />
+📚 Diving into algorithms and data structures.<br />
+🎓 Computer Information Systems student in the best computer science university of Brazil (UFMG).<br />
+😃 Always concerned with the User Experience and code organization.<br />
 
 <!-- Actual text -->
 
