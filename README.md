@@ -23,6 +23,7 @@ I am a junior Developer diving into iOS Mobile Development with Swift and I am c
 📚 Diving into algorithms and data structures.<br />
 🎓 Computer Information Systems student in the best computer science university of Brazil (UFMG).<br />
 😃 Always concerned with the User Experience and code organization.<br />
+💻 Skills: Swift, CoreData, Firebase, Figma, JavaScript, React.<br />
 
 <!-- Actual text -->
 
