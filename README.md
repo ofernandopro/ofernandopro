@@ -22,7 +22,7 @@ I am a junior Developer diving into iOS Mobile Development with Swift and I am c
 -->
 🍏 iOS Developer.<br />
 📚 Diving into algorithms and data structures.<br />
-🎓 Computer Information Systems student at UFMG (2019 - 2023).<br />
+🎓 Computer Information Systems student at UFMG (2019 - 2024).<br />
 😃 Always concerned with the user experience and code organization.<br />
 💻 Skills: Swift, Firebase (Auth, Storage, Database and Firestore), ViewCode, SQLite, CoreData, UserDefaults, CocoaPods, Git, Figma.<br />
 <!--💻 Skills: Swift, CoreData, Firebase, CocoaPods, Git, Gitflow, Figma, HTML, CSS, JavaScript.<br />-->
