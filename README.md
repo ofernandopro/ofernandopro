@@ -39,7 +39,7 @@ Email: fernandoepm.pro@gmail.com
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/oprogexpert
-[2]: https://www.linkedin.com/in/fernando-moreira-0307a7198/
+[2]: https://www.linkedin.com/in/fernando-ep-moreira/
 
 
 <!-- [![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=ofernandopro&theme=radical)](https://github.com/ofernandopro/github-readme-stats) -->
