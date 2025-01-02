@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <!--
 I am an iOS Developer diving into iOS Mobile Development with Swift and I am currently a Computer Information Systems student in the best computer science university of Brazil (UFMG). Besides all this amazing foundation in algorithms and data structures that the university provides me, I am Always concerned with the User Experience and code organization.
 -->
-🧡 iOS Developer at @Inter. <br />
+❤️ iOS Developer at CI&T. <br />
+🎓 Bachelor's degree in Computer Information Systems at UFMG (2019 - 2024).<br />
 📚 Diving into algorithms and data structures.<br />
-🎓 Computer Information Systems student at UFMG (2019 - 2024).<br />
 😃 Always concerned with the user experience and code organization.<br />
 💻 Skills: Swift, SwiftUI, Combine, Firebase (Auth, Storage, Database and Firestore), UIKit (Storyboards and ViewCode), SQLite, CoreData, UserDefaults, CocoaPods, SPM, Git, Figma.<br />
 <!--💻 Skills: Swift, CoreData, Firebase, CocoaPods, Git, Gitflow, Figma, HTML, CSS, JavaScript.<br />-->
