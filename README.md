@@ -22,7 +22,7 @@ I am an iOS Developer diving into iOS Mobile Development with Swift and I am cur
 -->
 ❤️ iOS Developer at CI&T. <br />
 🎓 Bachelor's degree in Computer Information Systems at UFMG (2019 - 2024).<br />
-🏅 Brazilian Programming Marathon Finalist.<br />
+🏅 Brazilian Programming Marathon Finalist of 2020.<br />
 😃 Always concerned with the user experience and clean code.<br />
 💻 Skills: Swift, SwiftUI, Combine, Firebase (Auth, Storage, Database and Firestore), UIKit (Storyboards and ViewCode), SQLite, CoreData, UserDefaults, CocoaPods, SPM, Git, Figma.<br />
 <!--💻 Skills: Swift, CoreData, Firebase, CocoaPods, Git, Gitflow, Figma, HTML, CSS, JavaScript.<br />-->
