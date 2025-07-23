@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!--
 I am an iOS Developer diving into iOS Mobile Development with Swift and I am currently a Computer Information Systems student in the best computer science university of Brazil (UFMG). Besides all this amazing foundation in algorithms and data structures that the university provides me, I am Always concerned with the User Experience and code organization.
 -->
-❤️ iOS Developer at CI&T. <br />
+🧡 iOS Developer at Spread. <br />
 🎓 Bachelor's degree in Computer Information Systems at UFMG (2019 - 2024).<br />
 🎓 Postgraduate degree in Artificial Intelligence & Machine Learning at University of Texas at Austin (2025 - 2026).<br />
 🏅 Brazilian Programming Marathon Finalist of 2020.<br />
